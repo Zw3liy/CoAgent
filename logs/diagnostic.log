@@ -1,0 +1,13 @@
+[Co Agent] Diagnostic run started on 2026/04/20 at 13:54:29,00 
+ 
+Root directory exists: C:\CoAgent 
+ERROR: Directory missing: %%d 
+Python is installed and accessible. 
+ERROR: Module missing: %%m 
+Testing modules... 
+[Co Agent] Troubleshooting module ready
+[Co Agent] Fuel calculator module ready
+[Co Agent] Proposal drafting module ready
+[Co Agent] Script generator module ready
+Diagnostic run complete on 2026/04/20 at 13:54:30,34 
+ 
