@@ -64,3 +64,13 @@ STATUS: Errors detected (1 issues). Repairs attempted.
 [OK] %%M found. 
 [STATUS] Healthy - no issues detected. 
 ======================================== 
+[2026/04/20 21:49:40,04] Checking Python installation... 
+Python 3.12.2
+[2026/04/20 21:49:40,37] Checking port conflicts... 
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING       4964
+  TCP    0.0.0.0:8081           0.0.0.0:0              LISTENING       5256
+  TCP    192.168.18.100:62969   23.11.41.157:80        TIME_WAIT       0
+  TCP    [::]:80                [::]:0                 LISTENING       4964
+  TCP    [::]:8081              [::]:0                 LISTENING       5256
+  UDP    0.0.0.0:8082           *:*                                    5256
+  UDP    [::]:8082              *:*                                    5256
