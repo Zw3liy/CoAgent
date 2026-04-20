@@ -87,3 +87,18 @@ python: can't open file 'C:\\CoAgent\\scripts\\scripts\\co_troubleshoot.py': [Er
 python: can't open file 'C:\\CoAgent\\scripts\\scripts\\co_fuelcalc.py': [Errno 2] No such file or directory
 python: can't open file 'C:\\CoAgent\\scripts\\scripts\\co_proposal.py': [Errno 2] No such file or directory
 python: can't open file 'C:\\CoAgent\\scripts\\scripts\\co_scriptgen.py': [Errno 2] No such file or directory
+[2026/04/20 21:55:11,73] Checking Python installation... 
+Python 3.12.2
+[2026/04/20 21:55:11,84] Checking port conflicts (80, 3306)... 
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING       4964
+  TCP    0.0.0.0:8081           0.0.0.0:0              LISTENING       5256
+  TCP    [::]:80                [::]:0                 LISTENING       4964
+  TCP    [::]:8081              [::]:0                 LISTENING       5256
+  UDP    0.0.0.0:8082           *:*                                    5256
+  UDP    [::]:8082              *:*                                    5256
+python: can't open file 'C:\\CoAgent\\scripts\\scripts\\co_troubleshoot.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\CoAgent\\scripts\\scripts\\co_fuelcalc.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\CoAgent\\scripts\\scripts\\co_proposal.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\CoAgent\\scripts\\scripts\\co_scriptgen.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\CoAgent\\scripts\\scripts\\co_seo.py': [Errno 2] No such file or directory
+python: can't open file 'C:\\CoAgent\\scripts\\scripts\\co_badge.py': [Errno 2] No such file or directory
