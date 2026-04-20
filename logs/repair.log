@@ -29,3 +29,9 @@ STATUS: Errors detected (1 issues). Repairs attempted.
 [2026/04/20 22:51:14,35] Restarting Apache/MySQL... 
 [2026/04/20 22:56:09,09] Restarting Apache/MySQL... 
 [2026/04/20 22:56:14,94] MySQL service not found, skipping restart 
+Killing PID %%a (port 80 conflict
+Killing PID %%a (port 3306 conflict
+[2026/04/20 22:58:24,17] Killing PID %%a (port 80 conflict
+[2026/04/20 22:58:24,77] Killing PID %%a (port 3306 conflict
+[2026/04/20 22:58:25,10] Restarting Apache/MySQL... 
+[2026/04/20 22:58:30,18] MySQL service not found, skipping restart 
