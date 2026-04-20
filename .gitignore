@@ -1,0 +1,31 @@
+# Ignore logs
+logs/
+*.log
+
+# Ignore repair reports
+repair.log
+diagnostic.log
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+venv/
+env/
+
+# Ignore OS-specific junk
+Thumbs.db
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore compiled executables
+*.exe
+*.dll
+*.so
