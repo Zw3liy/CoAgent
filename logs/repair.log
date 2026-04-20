@@ -43,3 +43,7 @@ Killing PID %%a (port 3306 conflict
 [2026/04/20 23:02:52,75] Killing PID %%a (port 3306 conflict
 [2026/04/20 23:02:53,11] Restarting Apache/MySQL... 
 [2026/04/20 23:02:59,26] MySQL service not found, skipping restart 
+[2026/04/20 23:05:08,90] Killing PID %%a (port 80 conflict
+[2026/04/20 23:05:09,53] Killing PID %%a (port 3306 conflict
+[2026/04/20 23:05:09,86] Restarting Apache/MySQL... 
+[2026/04/20 23:05:15,84] MySQL service not found, skipping restart 
