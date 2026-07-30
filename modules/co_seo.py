@@ -1,0 +1,1 @@
+print("[+] SEO Tool Ready")
