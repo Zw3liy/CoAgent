@@ -29,3 +29,7 @@ Thumbs.db
 *.exe
 *.dll
 *.so
+
+cloned_site/
+coagent_output/
+__pycache__/
